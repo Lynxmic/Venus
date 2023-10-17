@@ -1,0 +1,3 @@
+@echo off
+echo Loading...
+node bot.js
